@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DangerousDeveloper2007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👨‍💻 Hi, I’m Dangerous Developer.
+- ✨ I Am Interested In Developing.
+- 🌱 I’m Currently Learning Coding.
+- 💞️ I'm Design Graphics & Creating Videos.
+- 🦄 
 
 <!---
 DangerousDeveloper2007/DangerousDeveloper2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
